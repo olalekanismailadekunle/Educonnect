@@ -1,0 +1,43 @@
+﻿@model IList<EduConnect.DTOs.SubjectDto>
+<div>
+    <table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Subject Name
+            </th>
+             <th>
+                Delete Subject
+            </th>
+             <th>
+                Update Subject
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var subject in Model)
+        {
+        <tr>
+            <th>
+                @subject.Id
+            </th>
+            <th>
+                @subject.Name
+            </th>
+             <td>
+                <a asp-action="Delete" asp-route-id="@subject.Id">Delete</a>
+             </td>
+             <td>
+                <a asp-action="Update" asp-route-id="@subject.Id">Update</a>
+             </td>
+        </tr>
+        }
+    </tbody>
+</table>
+</div>
+    <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>

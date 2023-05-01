@@ -1,0 +1,63 @@
+﻿ @model IList<EduConnect.DTOs.StudentDto>   
+<div>
+    <<table class="table">
+    <thead>
+        <tr>
+            <th>
+                S/N
+            </th>
+            <th>
+               Name
+            </th>
+             <th>
+                Delete 
+            </th>
+             <th>
+                Details 
+            </th>
+               <th>
+                Update 
+            </th>
+            <th>
+                Book 
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            var num = 1;
+        };
+        @foreach (var parent in Model)
+        {
+        <tr>
+            <td>
+                @num
+            </td>
+            <td>
+                @parent.FirstName @parent.LastName
+            </td>
+             <td>
+                <a asp-action="DeleteForParent" asp-route-id="@parent.Id">Delete</a>
+             </td>
+              <td>
+                <a asp-action="Details" asp-route-id="@parent.Id">Details</a>
+             </td>
+                <td>
+                <a asp-action="Update" asp-route-id="@parent.Id">Update</a>
+             </td>
+                  
+                <td>
+                <a asp-action="GetTutorAccordingToStudent" asp-controller="Tutor" asp-route-id="@parent.Id">Book Instructor</a>
+             </td>
+        </tr>
+               num++;
+                
+         }
+    </tbody>
+</table>
+</div>
+    <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+
+ 

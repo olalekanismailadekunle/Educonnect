@@ -1,0 +1,55 @@
+﻿@model EduConnect.DTOs.BookingResponseModel
+ 
+<section id="main-content">
+    <section class="wrapper">
+        <h3><i class="fa fa-angle-right"></i>Details</h3>
+        <div style="font-size: 130%;">
+            <dl class="row">
+                <dt class="col-sm-2">
+                    Parent Name:
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.Data.ParentName
+                </dd>
+                <dt class="col-sm-2">
+                    Student Name:
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.Data.StudentName
+                </dd>
+               @* <dt class="col-sm-2">
+                    Address:
+                </dt>
+                <dd class="col-sm-10">
+                   
+                </dd>*@
+                <dt class="col-sm-2">
+                    Tutor Name:
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.Data.TutorName
+                </dd>
+
+               @* <dt class="col-sm-2">
+                    AdminPhoto:
+                </dt>
+               <dd class="col-sm-10">
+                    <img class="card-img" style="height:200px; width:200px" src="~/adminPhotos/@Model.AdminPhoto" />     
+                    <a href="~/adminPhotos/@Model.AdminPhoto" download="@Model.AdminPhoto"><input class="btn btn-outline-primary" type="button" value="DownLoad" /></a>      
+                </dd>*@
+            </dl>
+        </div>
+      @*  <div class="btn btn-primary">
+    <a style="color:white;" asp-controller="Administrator" asp-action="DashBoard">Back to DashBoard</a>
+      </div>*@
+        @*<button style="background-color:aqua;"><a asp-controller="Administrator" asp-action="Index">Back to List</a></button>*@
+        <div class="btn btn-primary">
+    <a asp-controller="Booking" asp-action="IndexForTutor" style="color:white">Back to List</a>
+</div>
+           <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+    </section>
+</section>
+
+

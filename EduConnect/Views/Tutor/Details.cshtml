@@ -1,0 +1,67 @@
+﻿@model EduConnect.DTOs.TutorDto
+ 
+<section id="main-content">
+    <section class="wrapper">
+        <h3><i class="fa fa-angle-right"></i>Details</h3>
+        <div style="font-size: 130%;">
+            <dl class="row">
+                <dt class="col-sm-2">
+                    FirstName:
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.FirstName
+                </dd>
+                <dt class="col-sm-2">
+                    LastName:
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.LastName
+                </dd>
+               @* <dt class="col-sm-2">
+                    Address:
+                </dt>
+                <dd class="col-sm-10">
+                   
+                </dd>*@
+                <dt class="col-sm-2">
+                    Email:
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.MailAddress
+                </dd>
+
+                <dt class="col-sm-2">
+                    Profile Pics:
+                </dt>
+                <dd class="col-sm-10">
+                    <img class="card-img" style="height:200px; width:200px" src="~/myImages/@Model.ProfilePicture">
+                </dd>
+                <dt class="col-sm-2">
+                    Document Images:
+                </dt>
+                @foreach (var item in @Model.DocumentImages)
+                {
+                    <dd class="col-sm-10">
+                         <a href="~/myImages/@item" download="@item"><input class="btn btn-outline-primary" type="button" value="Download document"/></a>
+                    </dd>
+                   
+                }
+
+              
+
+               @* <dt class="col-sm-2">
+                    AdminPhoto:
+                </dt>
+               <dd class="col-sm-10">
+                    <img class="card-img" style="height:200px; width:200px" src="~/adminPhotos/@Model.AdminPhoto" />     
+                    <a href="~/adminPhotos/@Model.AdminPhoto" download="@Model.AdminPhoto"><input class="btn btn-outline-primary" type="button" value="DownLoad" /></a>      
+                </dd>*@
+           </dl>
+        </div>
+      @*  <button style="background-color:aqua;"><a asp-controller="Administrator" asp-action="Index">Back to List</a></button>*@
+             <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+    </section>
+</section>
+

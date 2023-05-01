@@ -1,0 +1,50 @@
+﻿ @model EduConnect.DTOs.ParentsResponseModel   
+<div>
+    <table class="table">
+    <thead>
+        <tr>
+            <th>
+                S/N
+            </th>
+            <th>
+               Name
+            </th>
+             <th>
+                Delete 
+            </th>
+             <th>
+                Details 
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            var num = 1;
+        }
+        @foreach (var parent in Model.Data)
+        {
+        <tr>
+            <td>
+                @num
+            </td>
+            <td>
+                @parent.FirstName @parent.LastName
+            </td>
+             <td>
+                <a asp-action="Delete" asp-route-id="@parent.Id">Delete</a>
+             </td>
+              <td>
+                <a asp-action="Details" asp-route-id="@parent.Id">Details</a>
+             </td>
+        </tr>
+               num++;
+                
+         }
+    </tbody>
+</table>
+</div>
+    <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+
+ 

@@ -1,0 +1,120 @@
+﻿@using EduConnect.Enums
+@model EduConnect.DTOs.TutorRequestModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+<body>
+    <h1>Tutor Registration</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            @if (ViewBag.Message != null)
+            {
+                <div style="color:red" font-weight: bolder; padding: 5px>
+                    <p class="alert alert-warning alert-dismissible" role="alert">@ViewBag.Message</p>
+                    <label style="text-align: center"> </label>
+                </div>
+            }
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MailAddress" class="control-label"></label>
+                <input asp-for="MailAddress" class="form-control" />
+                <span asp-validation-for="MailAddress" class="text-danger"></span>
+            </div>
+              
+            <div class="form-group">
+                <label asp-for="HouseNumber" class="control-label"></label>
+                <input asp-for="HouseNumber" class="form-control" />
+                <span asp-validation-for="HouseNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StreetName" class="control-label"></label>
+                <input asp-for="StreetName" class="form-control" />
+                <span asp-validation-for="StreetName" class="text-danger"></span>
+            </div>
+              <div class="form-group">
+                <label asp-for="City" class="control-label"></label>
+                <input asp-for="City" class="form-control" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="State" class="control-label"></label>
+                <select style="scrollbar-3dlight-color:blue" asp-for="State" asp-items="ViewBag.States" id="state"> </select>
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+           <div class="form-group">
+                <label asp-for="LGAOfResidence" class="control-label"></label>
+                <select style="scrollbar-3dlight-color:blue" asp-for="LGAOfResidence" id="lga"> </select>
+                <span asp-validation-for="LGAOfResidence" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SubjectIds" class="control-label"></label>
+                <select style="scrollbar-3dlight-color:blue" asp-for="SubjectIds" asp-items="ViewBag.Subjects" multiple> </select>
+                <span asp-validation-for="SubjectIds" class="text-danger"></span>
+            </div>
+            <div>
+            <label>Qualification</label>
+            <select asp-for="Qualification" asp-items="@Html.GetEnumSelectList(typeof(Qualification))" >
+                 <option selected disabled>--Select Qualification</option>
+            </select>
+            </div>
+            <div>
+                <label>Specialization</label>
+                <select asp-for="Specialization" asp-items="@Html.GetEnumSelectList(typeof(Specialization))" >
+                     <option selected disabled>--Select Specialization</option>
+                </select>
+            </div>
+
+                <div class="form-group">
+                <label asp-for="ProfilePicture" class="control-label"></label>
+                <input asp-for="ProfilePicture" class="form-control" />
+                <span asp-validation-for="ProfilePicture" class="text-danger"></span>
+            </div>
+               <div class="form-group">
+                <label asp-for="DocumentImages" class="control-label"></label>
+                <input type="file"  asp-for="DocumentImages" class="form-control" multiple />
+                <span asp-validation-for="DocumentImages" class="text-danger"></span>
+                </div>
+            <div>
+             <label>Working Hours/day</label>
+            <select asp-for="WorkinHoursPerday" asp-items="@Html.GetEnumSelectList(typeof(WorkingHours))" >
+                     <option selected disabled>--Select Working Hours</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    <div id="state-choosen">
+
+    </div>
+ 
+
+</div>
+@*<div class="btn btn-primary">
+    <a style="color:white;" asp-controller="Tutor" asp-action="">Back </a>
+      </div>*@
+          <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+  <script src="~/js/index.js" asp-append-version="true"></script>
+</body>

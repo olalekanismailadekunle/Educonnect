@@ -1,0 +1,34 @@
+﻿@model EduConnect.DTOs.SubjectRequestModel
+
+<h1>Create Subject</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            @if (ViewBag.Message != null)
+            {
+                <div style="color:red" font-weight: bolder; padding: 5px>
+                    <p class="alert alert-warning alert-dismissible" role="alert">@ViewBag.Message</p>
+                    <label style="text-align: center"> </label>
+                </div>
+            }
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="SubjectName" class="control-label"></label>
+                <input asp-for="SubjectName" class="form-control" />
+                <span asp-validation-for="SubjectName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+    <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

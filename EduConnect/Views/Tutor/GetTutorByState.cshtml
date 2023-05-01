@@ -1,0 +1,39 @@
+﻿@model IList<EduConnect.DTOs.TutorDto>
+<div>
+    <table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Subject Name
+            </th>
+             <th>
+                Delete Subject
+            </th>
+             <th>
+                Update Subject
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var subject in Model)
+        {
+        <tr>
+            <th>
+                @subject.LastName
+            </th>
+            <th>
+                @subject.FirstName
+            </th>
+
+        </tr>
+        }
+    </tbody>
+</table>
+    <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+</div>
+ 

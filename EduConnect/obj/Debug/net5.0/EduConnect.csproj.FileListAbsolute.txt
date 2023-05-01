@@ -1,0 +1,387 @@
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.csproj.AssemblyReference.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.AssemblyInfoInputs.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.AssemblyInfo.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.csproj.CoreCompileInputs.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorAssemblyInfo.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorAssemblyInfo.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\appsettings.json
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.exe
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.deps.json
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.runtimeconfig.json
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.runtimeconfig.dev.json
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.pdb
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.Views.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.Views.pdb
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\scopedcss\bundle\EduConnect.styles.css
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\staticwebassets\EduConnect.StaticWebAssets.Manifest.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.TagHelpers.input.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.TagHelpers.output.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorCoreGenerate.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorTargetAssemblyInfo.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorTargetAssemblyInfo.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.Views.pdb
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.csproj.CopyComplete
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\refint\EduConnect.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.pdb
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.genruntimeconfig.cache
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\ref\EduConnect.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Create.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\_LandingPageLayout.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Dashboard.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Details.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByQualification.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Index.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\DashBoard.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\User\SignIn.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\DashBoard.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Create.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Index.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Update.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Create.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Details.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Index.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Details.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Index.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Create.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Index.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Update.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Update.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByLocalGovernment.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByQualification.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchBySpecialization.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByState.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchBySubject.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByState.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\DetailsByIndividual.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Update.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Update.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\DetailsByAdmin.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByLocalGovernment.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\DashBoardIndividual.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\CreateSuperAdmin.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Details.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\DetailsByIndividual.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\IndexForParent.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByStatus.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorBySpecialization.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByStatus.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\DeleteForParent.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\GetToBeDeletedStudent.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorAccordingToStudent.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Create.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\GetNotApprovedBooking.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\GetNotApprovedBookingForParent.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\IndexForParent.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\IndexForTutor.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\appsettings.json
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.exe
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.deps.json
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.runtimeconfig.json
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.runtimeconfig.dev.json
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.pdb
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.Views.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.Views.pdb
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\JsonSubTypes.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\sib_api_v3_sdk.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.csproj.AssemblyReference.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.AssemblyInfoInputs.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.AssemblyInfo.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.csproj.CoreCompileInputs.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorAssemblyInfo.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorAssemblyInfo.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\scopedcss\bundle\EduConnect.styles.css
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\staticwebassets\EduConnect.StaticWebAssets.Manifest.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.TagHelpers.input.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.TagHelpers.output.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorCoreGenerate.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Create.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\CreateSuperAdmin.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\DashBoard.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\DashBoardIndividual.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Details.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\DetailsByIndividual.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Index.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Update.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Create.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Details.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\GetNotApprovedBooking.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\GetNotApprovedBookingForParent.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Index.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\IndexForParent.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\IndexForTutor.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Create.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\DashBoard.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Details.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\DetailsByIndividual.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Index.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Update.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByLocalGovernment.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByQualification.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchBySpecialization.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByState.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByStatus.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchBySubject.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\_LandingPageLayout.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\DeleteForParent.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\GetToBeDeletedStudent.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\IndexForParent.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Update.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Create.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Index.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Update.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Create.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Dashboard.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Details.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\DetailsByAdmin.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorAccordingToStudent.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByLocalGovernment.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByQualification.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorBySpecialization.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByState.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByStatus.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Index.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Update.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\User\SignIn.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorTargetAssemblyInfo.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorTargetAssemblyInfo.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.Views.pdb
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.csproj.CopyComplete
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\refint\EduConnect.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.pdb
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.genruntimeconfig.cache
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\ref\EduConnect.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\MediatR.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\DetailsParent.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\DetailsTutor.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\C# Materials\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Details.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\JsonSubTypes.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\MediatR.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\bin\Debug\net5.0\sib_api_v3_sdk.dll
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\DetailsParent.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\DetailsTutor.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Details.cshtml.g.cs
+C:\Users\ol\Desktop\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\appsettings.json
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.exe
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.deps.json
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.runtimeconfig.json
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.runtimeconfig.dev.json
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.pdb
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.Views.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\EduConnect.Views.pdb
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\JsonSubTypes.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\MediatR.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\sib_api_v3_sdk.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.csproj.AssemblyReference.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.AssemblyInfoInputs.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.AssemblyInfo.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.csproj.CoreCompileInputs.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorAssemblyInfo.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorAssemblyInfo.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\scopedcss\bundle\EduConnect.styles.css
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\staticwebassets\EduConnect.StaticWebAssets.Manifest.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.TagHelpers.input.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.TagHelpers.output.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorCoreGenerate.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Create.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\CreateSuperAdmin.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\DashBoard.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\DashBoardIndividual.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Delete.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Details.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\DetailsByIndividual.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Index.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Administrator\Update.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Create.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Delete.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Details.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\DetailsParent.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\DetailsTutor.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\GetNotApprovedBooking.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\GetNotApprovedBookingForParent.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\Index.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\IndexForParent.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Booking\IndexForTutor.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Create.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\DashBoard.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Delete.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Details.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\DetailsByIndividual.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Index.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Parent\Update.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Details.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByLocalGovernment.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByQualification.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchBySpecialization.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByState.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchByStatus.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Search\SearchBySubject.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\_LandingPageLayout.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\DeleteForParent.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\GetToBeDeletedStudent.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\IndexForParent.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Student\Update.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Create.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Delete.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Index.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Subject\Update.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Create.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Dashboard.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Delete.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Details.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\DetailsByAdmin.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorAccordingToStudent.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByLocalGovernment.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByQualification.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorBySpecialization.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByState.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\GetTutorByStatus.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Index.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\Tutor\Update.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\User\SignIn.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorTargetAssemblyInfo.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.RazorTargetAssemblyInfo.cs
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.Views.pdb
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.csproj.CopyComplete
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\refint\EduConnect.dll
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.pdb
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\EduConnect.genruntimeconfig.cache
+C:\Users\ol\Documents\EduConnect\EduConnect\obj\Debug\net5.0\ref\EduConnect.dll

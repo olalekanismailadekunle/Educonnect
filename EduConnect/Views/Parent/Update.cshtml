@@ -1,0 +1,62 @@
+﻿
+
+@model EduConnect.DTOs.ParentDto
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit  Details</h1>
+<hr />
+
+<section id="main-content">
+    <section class="wrapper">
+        <h3><i class="fa fa-angle-right"></i>Edit Form</h3>
+         @*@if (ViewBag.Message != null)
+            {
+                <div style="color:red" font-weight: bolder; padding: 5px>
+                    <p class="alert alert-warning alert-dismissible" role="alert">@ViewBag.Message</p>
+                    <label style="text-align: center"> </label>
+                </div>
+            }*@
+        
+        <div class="row mt">
+            <div class="col-lg-12">
+                <div class="form-panel">
+                    <h4 class="mb"><i class="fa fa-angle-right"></i> Kindly fill in this form to update </h4>
+                    <form asp-action="Update" class="form-horizontal tasi-form" >
+                        
+                        <div class="form-group has-warning">
+                            <label class="col-sm-2 control-label col-lg-2" for="inputWarning">LastName</label>
+                            <div class="col-lg-10">
+                                <input asp-for="LastName" type="text" class="form-control" id="inputWarning" required />
+                            </div>
+                        </div>
+                        <div class="form-group has-error">
+                            <label class="col-sm-2 control-label col-lg-2" for="inputError">FirstName</label>
+                            <div class="col-lg-10">
+                                <input asp-for="FirstName" type="text" class="form-control" id="inputError" required />
+                            </div>
+                        </div>
+                        <div class="form-group has-error">
+                            <label class="col-sm-2 control-label col-lg-2" for="inputError">Email</label>
+                            <div class="col-lg-10">
+                                <input asp-for="MailAddress" type="text" class="form-control" id="inputError" required />
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <input type="submit" value="Submit" class="btn btn-success trigger-btn col-sm-12" data-toggle="modal" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+    <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

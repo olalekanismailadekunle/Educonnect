@@ -1,0 +1,49 @@
+﻿ @model IList<EduConnect.DTOs.RoleDto>  
+<div>
+    <table class="table">
+    <thead>
+        <tr>
+            <th>
+                S/N
+            </th>
+            <th>
+               Name
+            </th>
+             <th>
+                Delete 
+            </th>
+             <th>
+                Details 
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            var num = 1;
+        }        @foreach (var role in Model)
+        {
+        <tr>
+            <td>
+                @num
+            </td>
+            <td>
+                @role.Description @role.Name
+            </td>
+             <td>
+                <a asp-action="Delete" asp-route-id="@role.Id">Delete</a>
+             </td>
+              <td>
+                <a asp-action="Details" asp-route-id="@role.Id">Details</a>
+             </td>
+        </tr>
+               num++;
+                
+         }
+    </tbody>
+</table>
+</div>
+    <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+
+ 

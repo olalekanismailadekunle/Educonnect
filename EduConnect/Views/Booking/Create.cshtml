@@ -1,0 +1,62 @@
+﻿@using EduConnect.Enums
+@model EduConnect.DTOs.BookingRequestModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+<body>
+    <h1>Booking Registration</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            @if (ViewBag.Message != null)
+            {
+                <div style="color:red" font-weight: bolder; padding: 5px>
+                    <p class="alert alert-warning alert-dismissible" role="alert">@ViewBag.Message</p>
+                    <label style="text-align: center"> </label>
+                </div>
+            }
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+        
+         
+            <div class="form-group">
+                <label asp-for="SubjectId" class="control-label"></label>
+                <select style="scrollbar-3dlight-color:blue" asp-for="SubjectId" asp-items="ViewBag.Subjects" > </select>
+                <span asp-validation-for="SubjectId" class="text-danger"></span>
+            </div>
+            <div>
+            <label>BookingHour</label>
+            <select asp-for="BookingHour" asp-items="@Html.GetEnumSelectList(typeof(BookingHour))" >
+                 <option selected disabled>--Select BookingHour</option>
+            </select>
+            </div>
+            <div>
+                <label>PaymentCategory</label>
+                <select asp-for="PaymentCategory" asp-items="@Html.GetEnumSelectList(typeof(PaymentCategory))" >
+                     <option selected disabled>--Select PaymentCategory</option>
+                </select>
+            </div>
+
+                <input type="hidden" asp-for="TutorId"  id="tutor-id"/>
+                
+
+                    <input type="hidden" asp-for="StudentId"  id="student-id"/>
+                
+
+            
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+
+
+</div>
+    <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+  <script src="~/js/booking.js" asp-append-version="true"></script>
+</body>

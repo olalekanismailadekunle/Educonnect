@@ -1,0 +1,89 @@
+﻿@using EduConnect.Enums
+@model EduConnect.DTOs.StudentUpdateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+<body>
+    <h1>Update Student</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update" enctype="multipart/form-data">
+            @if (ViewBag.Message != null)
+            {
+                <div style="color:red" font-weight: bolder; padding: 5px>
+                    <p class="alert alert-warning alert-dismissible" role="alert">@ViewBag.Message</p>
+                    <label style="text-align: center"> </label>
+                </div>
+            }
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+         
+              
+            <div class="form-group">
+                <label asp-for="HouseNumber" class="control-label"></label>
+                <input asp-for="HouseNumber" class="form-control" />
+                <span asp-validation-for="HouseNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StreetName" class="control-label"></label>
+                <input asp-for="StreetName" class="form-control" />
+                <span asp-validation-for="StreetName" class="text-danger"></span>
+            </div>
+             
+            <div class="form-group">
+                <label asp-for="State" class="control-label"></label>
+                <select style="scrollbar-3dlight-color:blue" asp-for="State" asp-items="ViewBag.States" id="state"> </select>
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+           <div class="form-group">
+                <label asp-for="LGAOfResidence" class="control-label"></label>
+                <select style="scrollbar-3dlight-color:blue" asp-for="LGAOfResidence" id="lga"> </select>
+                <span asp-validation-for="LGAOfResidence" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SubjectIds" class="control-label"></label>
+                <select style="scrollbar-3dlight-color:blue" asp-for="SubjectIds" asp-items="ViewBag.Subjects" multiple> </select>
+                <span asp-validation-for="SubjectIds" class="text-danger"></span>
+            </div>
+          
+            <div>
+                <label>Specialization</label>
+                 <select asp-for="Level" asp-items="@Html.GetEnumSelectList(typeof(Level))"  >
+                                 <option selected disabled>--Select Level</option>
+                    </select>
+            </div>
+
+              
+              
+            
+            
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    <div id="state-choosen">
+
+    </div>
+   
+
+</div>
+ <div class="btn btn-primary">
+    <a style="color:white;" asp-controller="Student" asp-action="IndexForParent">Back to List</a>
+</div>
+       <div class="btn btn-primary">
+    <a asp-controller="User" asp-action="RedirectToDashBoard" style="color:white">Back to DashBoard</a>
+     </div>
+  <script src="~/js/index.js" asp-append-version="true"></script>
+</body>
